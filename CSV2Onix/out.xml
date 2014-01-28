@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ONIXmessage xmlns="http://www.editeur.org/onix/2.1/short"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.editeur.org/onix/2.1/short/ONIX_BookProduct_Release2.1_short.xsd">
+	<header>
+		<m174 refname="FromCompany">Leer-e</m174>
+		<m182 refname="SentDate">20120418</m182>
+	</header>	<product>
+		<productidentifier>
+			<b221 refname="ProductIDType">15</b221>
+			<b244 refname="IDValue">9788415154242</b244>
+		</productidentifier>
+		<title>
+			<b202 refname="TitleType">01</b202>
+			<b203 refname="TitleText">Amor portátil</b203>
+		</title>
+		<contributor>
+			<b034 refname="SequenceNumber">1</b034>
+			<b035 refname="ContributorRole">A01</b035>
+			<b036 refname="PersonName">Karlan Barsy</b036>
+			<b037 refname="PersonNameInverted">Barsy, Karlan</b037>
+		</contributor>
+		<language>
+			<b253 refname="LanguageRole">01</b253>
+			<b252 refname="LanguageCode">spa</b252>
+		</language>
+		<salesrights>
+			<b089 refname="SalesRightsType">01</b089>
+			<b388 refname="RightsTerritory">WORLD</b388>
+		</salesrights>
+		<b064 refname="BASICMainSubject">FIC019000</b064>
+		<othertext>
+			<d102 refname="TextTypeCode">01</d102>
+			<d103 refname="TextFormat">02</d103>
+			<d104 refname="Text"></d104>
+		</othertext>
+		<publisher>
+			<b291 refname="PublishingRole">01</b291>
+			<b081 refname="PublisherName">Leer-e</b081>
+		</publisher>
+		<b394 refname="PublishingStatus">04</b394>
+		<b003 refname="PublicationDate">20120215</b003>
+		<supplydetail>
+			<j143 refname="OnSaleDate">20120215</j143>
+			<price>
+				<j148 refname="PriceTypeCode">04</j148>
+				<j151 refname="PriceAmount">4.23</j151>
+				<j152 refname="CurrencyCode">EUR</j152>
+			</price>
+		</supplydetail>
+	</product>	<product>
+		<productidentifier>
+			<b221 refname="ProductIDType">15</b221>
+			<b244 refname="IDValue">9788415370567</b244>
+		</productidentifier>
+		<title>
+			<b202 refname="TitleType">01</b202>
+			<b203 refname="TitleText">¡Ay!</b203>
+		</title>
+		<contributor>
+			<b034 refname="SequenceNumber">1</b034>
+			<b035 refname="ContributorRole">A01</b035>
+			<b036 refname="PersonName">Raúl Guierra Garrido</b036>
+			<b037 refname="PersonNameInverted">Guierra Garrido, Raúl</b037>
+		</contributor>
+		<language>
+			<b253 refname="LanguageRole">01</b253>
+			<b252 refname="LanguageCode">spa</b252>
+		</language>
+		<salesrights>
+			<b089 refname="SalesRightsType">01</b089>
+			<b388 refname="RightsTerritory">WORLD</b388>
+		</salesrights>
+		<b064 refname="BASICMainSubject">FIC019000</b064>
+		<othertext>
+			<d102 refname="TextTypeCode">01</d102>
+			<d103 refname="TextFormat">02</d103>
+			<d104 refname="Text"></d104>
+		</othertext>
+		<publisher>
+			<b291 refname="PublishingRole">01</b291>
+			<b081 refname="PublisherName">Leer-e</b081>
+		</publisher>
+		<b394 refname="PublishingStatus">04</b394>
+		<b003 refname="PublicationDate">20120215</b003>
+		<supplydetail>
+			<j143 refname="OnSaleDate">20120215</j143>
+			<price>
+				<j148 refname="PriceTypeCode">04</j148>
+				<j151 refname="PriceAmount">4.23</j151>
+				<j152 refname="CurrencyCode">EUR</j152>
+			</price>
+		</supplydetail>
+	</product>	<product>
+		<productidentifier>
+			<b221 refname="ProductIDType">15</b221>
+			<b244 refname="IDValue">9788415370574</b244>
+		</productidentifier>
+		<title>
+			<b202 refname="TitleType">01</b202>
+			<b203 refname="TitleText">El papa verde</b203>
+		</title>
+		<contributor>
+			<b034 refname="SequenceNumber">1</b034>
+			<b035 refname="ContributorRole">A01</b035>
+			<b036 refname="PersonName">Miguel Ángel Asturias</b036>
+			<b037 refname="PersonNameInverted">Asturias, Miguel Ángel</b037>
+		</contributor>
+		<language>
+			<b253 refname="LanguageRole">01</b253>
+			<b252 refname="LanguageCode">spa</b252>
+		</language>
+		<salesrights>
+			<b089 refname="SalesRightsType">01</b089>
+			<b388 refname="RightsTerritory">WORLD</b388>
+		</salesrights>
+		<b064 refname="BASICMainSubject">FIC019000</b064>
+		<othertext>
+			<d102 refname="TextTypeCode">01</d102>
+			<d103 refname="TextFormat">02</d103>
+			<d104 refname="Text"></d104>
+		</othertext>
+		<publisher>
+			<b291 refname="PublishingRole">01</b291>
+			<b081 refname="PublisherName">Leer-e</b081>
+		</publisher>
+		<b394 refname="PublishingStatus">04</b394>
+		<b003 refname="PublicationDate">20120215</b003>
+		<supplydetail>
+			<j143 refname="OnSaleDate">20120215</j143>
+			<price>
+				<j148 refname="PriceTypeCode">04</j148>
+				<j151 refname="PriceAmount">4.23</j151>
+				<j152 refname="CurrencyCode">EUR</j152>
+			</price>
+		</supplydetail>
+	</product>	<product>
+		<productidentifier>
+			<b221 refname="ProductIDType">15</b221>
+			<b244 refname="IDValue">9788415370581</b244>
+		</productidentifier>
+		<title>
+			<b202 refname="TitleType">01</b202>
+			<b203 refname="TitleText">Hipótesis</b203>
+		</title>
+		<contributor>
+			<b034 refname="SequenceNumber">1</b034>
+			<b035 refname="ContributorRole">A01</b035>
+			<b036 refname="PersonName">Raúl Guierra Garrido</b036>
+			<b037 refname="PersonNameInverted">Guierra Garrido, Raúl</b037>
+		</contributor>
+		<language>
+			<b253 refname="LanguageRole">01</b253>
+			<b252 refname="LanguageCode">spa</b252>
+		</language>
+		<salesrights>
+			<b089 refname="SalesRightsType">01</b089>
+			<b388 refname="RightsTerritory">WORLD</b388>
+		</salesrights>
+		<b064 refname="BASICMainSubject">FIC019000</b064>
+		<othertext>
+			<d102 refname="TextTypeCode">01</d102>
+			<d103 refname="TextFormat">02</d103>
+			<d104 refname="Text"></d104>
+		</othertext>
+		<publisher>
+			<b291 refname="PublishingRole">01</b291>
+			<b081 refname="PublisherName">Leer-e</b081>
+		</publisher>
+		<b394 refname="PublishingStatus">04</b394>
+		<b003 refname="PublicationDate">20120215</b003>
+		<supplydetail>
+			<j143 refname="OnSaleDate">20120215</j143>
+			<price>
+				<j148 refname="PriceTypeCode">04</j148>
+				<j151 refname="PriceAmount">4.23</j151>
+				<j152 refname="CurrencyCode">EUR</j152>
+			</price>
+		</supplydetail>
+	</product>	<product>
+		<productidentifier>
+			<b221 refname="ProductIDType">15</b221>
+			<b244 refname="IDValue">9788415370598</b244>
+		</productidentifier>
+		<title>
+			<b202 refname="TitleType">01</b202>
+			<b203 refname="TitleText">La felicidad, Ja, Ja</b203>
+		</title>
+		<contributor>
+			<b034 refname="SequenceNumber">1</b034>
+			<b035 refname="ContributorRole">A01</b035>
+			<b036 refname="PersonName">Alfredo Bryce Echenique</b036>
+			<b037 refname="PersonNameInverted">Bryce Echenique, Alfredo</b037>
+		</contributor>
+		<language>
+			<b253 refname="LanguageRole">01</b253>
+			<b252 refname="LanguageCode">spa</b252>
+		</language>
+		<salesrights>
+			<b089 refname="SalesRightsType">01</b089>
+			<b388 refname="RightsTerritory">WORLD</b388>
+		</salesrights>
+		<b064 refname="BASICMainSubject">FIC019000</b064>
+		<othertext>
+			<d102 refname="TextTypeCode">01</d102>
+			<d103 refname="TextFormat">02</d103>
+			<d104 refname="Text">La felicidad ja ja es, junto con Huerto cerrado, la obra que consagró a Alfredo Bryce Echenique como un maestro del relato breve. Los personajes de estos cuentos, escritos a principios de la década de 1970, experimentan la nostalgia como un mal incurable. Como viajeros de la memoria, la ironía será su mejor arma para realizar un ajuste de cuentas con el pasado.
+El humor, rasgo típico de la narrativa de Bryce Echenique, entabla en estas historias un revelador contrapunto con el infortunio, que ronda constantemente las vidas de unos seres frágiles y entrañables cuyos destinos tragicómicos terminan conmoviendo profundamente al lector.
+Nada como sumergirse en la prosa de Bryce (que escribe como "contando el cuento a los amigos" )para aprender de nuestro pasado con una carcajada; para entender mejor quiénes somos hoy; para vernos con humor, para aprender a reirnos de nosotros mismos.</d104>
+		</othertext>
+		<publisher>
+			<b291 refname="PublishingRole">01</b291>
+			<b081 refname="PublisherName">Leer-e</b081>
+		</publisher>
+		<b394 refname="PublishingStatus">04</b394>
+		<b003 refname="PublicationDate">20120215</b003>
+		<supplydetail>
+			<j143 refname="OnSaleDate">20120215</j143>
+			<price>
+				<j148 refname="PriceTypeCode">04</j148>
+				<j151 refname="PriceAmount">4.23</j151>
+				<j152 refname="CurrencyCode">EUR</j152>
+			</price>
+		</supplydetail>
+	</product>	<product>
+		<productidentifier>
+			<b221 refname="ProductIDType">15</b221>
+			<b244 refname="IDValue">9788415370635</b244>
+		</productidentifier>
+		<title>
+			<b202 refname="TitleType">01</b202>
+			<b203 refname="TitleText">Pluma de pavo real, tambor de piel de perro</b203>
+		</title>
+		<contributor>
+			<b034 refname="SequenceNumber">1</b034>
+			<b035 refname="ContributorRole">A01</b035>
+			<b036 refname="PersonName">Raúl Guierra Garrido</b036>
+			<b037 refname="PersonNameInverted">Guierra Garrido, Raúl</b037>
+		</contributor>
+		<language>
+			<b253 refname="LanguageRole">01</b253>
+			<b252 refname="LanguageCode">spa</b252>
+		</language>
+		<salesrights>
+			<b089 refname="SalesRightsType">01</b089>
+			<b388 refname="RightsTerritory">WORLD</b388>
+		</salesrights>
+		<b064 refname="BASICMainSubject">FIC019000</b064>
+		<othertext>
+			<d102 refname="TextTypeCode">01</d102>
+			<d103 refname="TextFormat">02</d103>
+			<d104 refname="Text"></d104>
+		</othertext>
+		<publisher>
+			<b291 refname="PublishingRole">01</b291>
+			<b081 refname="PublisherName">Leer-e</b081>
+		</publisher>
+		<b394 refname="PublishingStatus">04</b394>
+		<b003 refname="PublicationDate">20120215</b003>
+		<supplydetail>
+			<j143 refname="OnSaleDate">20120215</j143>
+			<price>
+				<j148 refname="PriceTypeCode">04</j148>
+				<j151 refname="PriceAmount">4.23</j151>
+				<j152 refname="CurrencyCode">EUR</j152>
+			</price>
+		</supplydetail>
+	</product>	<product>
+		<productidentifier>
+			<b221 refname="ProductIDType">15</b221>
+			<b244 refname="IDValue">9788415370604</b244>
+		</productidentifier>
+		<title>
+			<b202 refname="TitleType">01</b202>
+			<b203 refname="TitleText">Primer viaje andaluz</b203>
+		</title>
+		<contributor>
+			<b034 refname="SequenceNumber">1</b034>
+			<b035 refname="ContributorRole">A01</b035>
+			<b036 refname="PersonName">Camilo José Cela</b036>
+			<b037 refname="PersonNameInverted">Cela, Camilo José</b037>
+		</contributor>
+		<language>
+			<b253 refname="LanguageRole">01</b253>
+			<b252 refname="LanguageCode">spa</b252>
+		</language>
+		<salesrights>
+			<b089 refname="SalesRightsType">01</b089>
+			<b388 refname="RightsTerritory">WORLD</b388>
+		</salesrights>
+		<b064 refname="BASICMainSubject">FIC019000</b064>
+		<othertext>
+			<d102 refname="TextTypeCode">01</d102>
+			<d103 refname="TextFormat">02</d103>
+			<d104 refname="Text"></d104>
+		</othertext>
+		<publisher>
+			<b291 refname="PublishingRole">01</b291>
+			<b081 refname="PublisherName">Leer-e</b081>
+		</publisher>
+		<b394 refname="PublishingStatus">04</b394>
+		<b003 refname="PublicationDate">20120215</b003>
+		<supplydetail>
+			<j143 refname="OnSaleDate">20120215</j143>
+			<price>
+				<j148 refname="PriceTypeCode">04</j148>
+				<j151 refname="PriceAmount">4.23</j151>
+				<j152 refname="CurrencyCode">EUR</j152>
+			</price>
+		</supplydetail>
+	</product>	<product>
+		<productidentifier>
+			<b221 refname="ProductIDType">15</b221>
+			<b244 refname="IDValue">9788415370611</b244>
+		</productidentifier>
+		<title>
+			<b202 refname="TitleType">01</b202>
+			<b203 refname="TitleText">Toda la casa era una ventana</b203>
+		</title>
+		<contributor>
+			<b034 refname="SequenceNumber">1</b034>
+			<b035 refname="ContributorRole">A01</b035>
+			<b036 refname="PersonName">Emma Cohen</b036>
+			<b037 refname="PersonNameInverted">Cohen, Emma</b037>
+		</contributor>
+		<language>
+			<b253 refname="LanguageRole">01</b253>
+			<b252 refname="LanguageCode">spa</b252>
+		</language>
+		<salesrights>
+			<b089 refname="SalesRightsType">01</b089>
+			<b388 refname="RightsTerritory">WORLD</b388>
+		</salesrights>
+		<b064 refname="BASICMainSubject">FIC019000</b064>
+		<othertext>
+			<d102 refname="TextTypeCode">01</d102>
+			<d103 refname="TextFormat">02</d103>
+			<d104 refname="Text"></d104>
+		</othertext>
+		<publisher>
+			<b291 refname="PublishingRole">01</b291>
+			<b081 refname="PublisherName">Leer-e</b081>
+		</publisher>
+		<b394 refname="PublishingStatus">04</b394>
+		<b003 refname="PublicationDate">20120215</b003>
+		<supplydetail>
+			<j143 refname="OnSaleDate">20120215</j143>
+			<price>
+				<j148 refname="PriceTypeCode">04</j148>
+				<j151 refname="PriceAmount">4.23</j151>
+				<j152 refname="CurrencyCode">EUR</j152>
+			</price>
+		</supplydetail>
+	</product></ONIXmessage>

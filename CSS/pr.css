@@ -1,0 +1,29 @@
+	@page {  }
+	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+	td, th { vertical-align:top; font-size:12pt;}
+	h1, h2, h3, h4, h5, h6 { clear:both }
+	ol, ul { margin:0; padding:0;}
+	li { list-style: none; margin:0; padding:0;}
+	<!-- "li span.odfLiEnd" - IE 7 issue-->
+	li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
+	span.footnodeNumber { padding-right:1em; }
+	span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+	* { margin:0;}
+	.fr1 { font-size:12pt; text-align:right; vertical-align:top; writing-mode:lr-tb; background-color:#ffffff; }
+	.Autor { font-size:16pt; font-weight:bold; margin-bottom:3cm; margin-left:0cm; margin-right:0cm; margin-top:0cm; text-align:center ! important; text-indent:0cm; font-family:Sabon LT Std; writing-mode:lr-tb; font-style:italic; }
+	.Carta { font-size:10pt; margin-bottom:0.199cm; margin-left:1.499cm; margin-right:1.499cm; margin-top:0cm; text-align:justify ! important; text-indent:0.499cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.Footer { font-size:10pt; margin-bottom:0.199cm; margin-left:0cm; margin-right:0cm; margin-top:0cm; text-align:justify ! important; text-indent:0.499cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.Header { font-size:14pt; margin-bottom:0.212cm; margin-left:0cm; margin-right:0cm; margin-top:0.423cm; text-align:justify ! important; text-indent:0.499cm; font-family:Arial; writing-mode:lr-tb; }
+	.Heading_20_1 { font-size:115%; margin-bottom:3cm; margin-left:0cm; margin-right:0cm; margin-top:3cm; text-align:center ! important; text-indent:0cm; font-family:Gentium Book Basic; writing-mode:lr-tb; font-weight:bold; }
+	.Heading_20_2 { font-size:14pt; font-weight:bold; margin-bottom:3cm; margin-left:0cm; margin-right:0cm; margin-top:3cm; text-align:center ! important; text-indent:0cm; font-family:Gentium Book Basic; writing-mode:lr-tb; font-style:italic; }
+	.P1 { font-size:10pt; margin-bottom:0.199cm; margin-left:0cm; margin-right:0.635cm; margin-top:0cm; text-align:justify ! important; text-indent:0cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.P3 { font-size:10pt; margin-bottom:0.199cm; margin-left:0cm; margin-right:0cm; margin-top:0cm; text-align:justify ! important; text-indent:0.499cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.P4 { font-size:10pt; margin-bottom:0.199cm; margin-left:0cm; margin-right:0cm; margin-top:0cm; text-align:justify ! important; text-indent:0.499cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.P5 { font-size:10pt; margin-bottom:0.199cm; margin-left:0cm; margin-right:0cm; margin-top:1.199cm; text-align:justify ! important; text-indent:0.499cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.P6 { font-size:14pt; font-style:italic; font-weight:bold; margin-bottom:3cm; margin-left:0cm; margin-right:0cm; margin-top:3cm; text-align:center ! important; text-indent:0cm; font-family:Gentium Book Basic; writing-mode:lr-tb; }
+	.Standard { font-size:10pt; font-family:Sabon LT Std; writing-mode:lr-tb; margin-left:0cm; margin-right:0cm; margin-top:0cm; margin-bottom:0.199cm; text-align:justify ! important; text-indent:0.499cm; }
+	.dedicatoria { font-size:10pt; margin-bottom:0.199cm; margin-left:20%; margin-right:0cm; margin-top:0cm; text-align:left ! important; text-indent:0cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.texto { font-size:10pt; margin-bottom:0.199cm; margin-left:0cm; margin-right:0cm; margin-top:1.199cm; text-align:justify ! important; text-indent:0.499cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.titulo { font-size:16pt; margin-bottom:3cm; margin-left:0cm; margin-right:0cm; margin-top:3cm; text-align:center ! important; text-indent:0cm; font-family:Sabon LT Std; writing-mode:lr-tb; font-weight:bold; }
+	.verso { font-size:10pt; margin-bottom:0.199cm; margin-left:0.499cm; margin-right:0cm; margin-top:0cm; text-align:left ! important; text-indent:0cm; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.Cursiva { font-style:italic; font-weight:normal; }

@@ -1,0 +1,36 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+
+
+import sys
+import re
+import os
+
+def getText():
+	a = sys.stdin.readline()
+	a = re.sub("\\n", "", a)
+	return a
+	
+def createOPF():
+    print "Introduce el titulo:"
+    Title = getText()
+    print "Introduce el autor (Apellido, Nombre):"
+    Autor = getText()
+    print "Introduce el nombre del archivo html:"
+    HtmlFile = getText()
+    f = open("content.opf", 'w')
+    s = """<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid"><metadata><dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/"><dc:Title>%s</dc:Title><dc:Language>en</dc:Language><dc:Identifier id="uid">BD9D762403</dc:Identifier><dc:Creator>%s</dc:Creator><dc:Publisher>Leer-e</dc:Publisher><dc:Subject BASICCode="FIC027000">Classics</dc:Subject><dc:Description/></dc-metadata><x-metadata><output encoding="utf-8" content-type="text/x-oeb1-document"></output><Review/><SRP Currency="EUR">0.1</SRP><EmbeddedCover>cover.jpg</EmbeddedCover></x-metadata></metadata><manifest><item id="item1" media-type="text/x-oeb1-document" href="%s"></item><item id="item2" media-type="image/jpg" href="cover.jpg"></item></manifest><spine><itemref idref="item2"/><itemref idref="item1"/></spine><tours></tours><guide><reference type="title-page" title="Primera Página" href="%s"></reference><reference type="coverpage" title="Portada" href="cover.jpg"></reference></guide></package>
+""" % (Title, Autor, HtmlFile, HtmlFile)
+    f.write(s)
+    f.close()
+    return Title
+
+def main():
+	a = createOPF()
+	os.system("mobigen_linux -c1 -s2 content.opf")
+	os.rename("content.mobi", "%s.mobi" % a)
+	return 0
+
+if __name__ == '__main__': main()

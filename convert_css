@@ -1,0 +1,3 @@
+#!/bin/bash
+
+php /home/mikel/src/scripts/convert_css.php $1 $2 $3

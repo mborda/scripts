@@ -1,0 +1,9 @@
+#!/bin/bash
+
+mkdir in_cover
+mogrify -format jpg *.png
+cp *.jpg in_cover/
+cd in_cover
+for file in *; do mv "$file" `echo $file | sed -e 's/\(.*\)/\L\1/' -e 's/  */_/g' -e 's/_-_/-/g' -e 's/á/a/g' -e 's/é/e/g' -e 's/í/i/g' -e 's/ó/o/g' -e 's/ú/u/g' -e 's/ñ/n/g' -e 's/,//g'`; done
+cd ..
+mogrify -resize @1989900 -quality 65 in_cover/*

@@ -1,0 +1,29 @@
+	@page {  }
+	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+	td, th { vertical-align:top; font-size:1.2em;}
+	h1, h2, h3, h4, h5, h6 { clear:both }
+	ol, ul { margin:0; padding:0;}
+	li { list-style: none; margin:0; padding:0;}
+	<!-- "li span.odfLiEnd" - IE 7 issue-->
+	li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
+	span.footnodeNumber { padding-right:1em; }
+	span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+	* { margin:0;}
+	.fr1 { font-size:1.2em; text-align:right; vertical-align:top; writing-mode:lr-tb; background-color:#ffffff; }
+	.Autor { font-size:1.6em; font-weight:bold; margin-bottom:6em; margin-left:0em; margin-right:0em; margin-top:0em; text-align:center ! important; text-indent:0em; font-family:Sabon LT Std; writing-mode:lr-tb; font-style:italic; }
+	.Carta { font-size:1em; margin-bottom:0.398em; margin-left:2.998em; margin-right:2.998em; margin-top:0em; text-align:justify ! important; text-indent:0.998em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.Footer { font-size:1em; margin-bottom:0.398em; margin-left:0em; margin-right:0em; margin-top:0em; text-align:justify ! important; text-indent:0.998em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.Header { font-size:1.4em; margin-bottom:0.424em; margin-left:0em; margin-right:0em; margin-top:0.846em; text-align:justify ! important; text-indent:0.998em; font-family:Arial; writing-mode:lr-tb; }
+	.Heading_20_1 { font-size:115%; margin-bottom:6em; margin-left:0em; margin-right:0em; margin-top:6em; text-align:center ! important; text-indent:0em; font-family:Gentium Book Basic; writing-mode:lr-tb; font-weight:bold; }
+	.Heading_20_2 { font-size:1.4em; font-weight:bold; margin-bottom:6em; margin-left:0em; margin-right:0em; margin-top:6em; text-align:center ! important; text-indent:0em; font-family:Gentium Book Basic; writing-mode:lr-tb; font-style:italic; }
+	.P1 { font-size:1em; margin-bottom:0.398em; margin-left:0em; margin-right:1.27em; margin-top:0em; text-align:justify ! important; text-indent:0em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.P3 { font-size:1em; margin-bottom:0.398em; margin-left:0em; margin-right:0em; margin-top:0em; text-align:justify ! important; text-indent:0.998em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.P4 { font-size:1em; margin-bottom:0.398em; margin-left:0em; margin-right:0em; margin-top:0em; text-align:justify ! important; text-indent:0.998em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.P5 { font-size:1em; margin-bottom:0.398em; margin-left:0em; margin-right:0em; margin-top:2.398em; text-align:justify ! important; text-indent:0.998em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.P6 { font-size:1.4em; font-style:italic; font-weight:bold; margin-bottom:6em; margin-left:0em; margin-right:0em; margin-top:6em; text-align:center ! important; text-indent:0em; font-family:Gentium Book Basic; writing-mode:lr-tb; }
+	.Standard { font-size:1em; font-family:Sabon LT Std; writing-mode:lr-tb; margin-left:0em; margin-right:0em; margin-top:0em; margin-bottom:0.398em; text-align:justify ! important; text-indent:0.998em; }
+	.dedicatoria { font-size:1em; margin-bottom:0.398em; margin-left:20%; margin-right:0em; margin-top:0em; text-align:left ! important; text-indent:0em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.texto { font-size:1em; margin-bottom:0.398em; margin-left:0em; margin-right:0em; margin-top:2.398em; text-align:justify ! important; text-indent:0.998em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.titulo { font-size:1.6em; margin-bottom:6em; margin-left:0em; margin-right:0em; margin-top:6em; text-align:center ! important; text-indent:0em; font-family:Sabon LT Std; writing-mode:lr-tb; font-weight:bold; }
+	.verso { font-size:1em; margin-bottom:0.398em; margin-left:0.998em; margin-right:0em; margin-top:0em; text-align:left ! important; text-indent:0em; font-family:Sabon LT Std; writing-mode:lr-tb; }
+	.Cursiva { font-style:italic; font-weight:normal; }
